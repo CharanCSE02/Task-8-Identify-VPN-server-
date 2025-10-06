@@ -10,12 +10,13 @@ VPN Server connects to various server in other country server from netwoking and
 
 Example : VPN service we start then it connect to another servers from data.
 
-<img width="1580" height="615" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-7-Identify-VPN-server/blob/main/Screenshot 2025-10-05 204104.png" />
+<img width="1580" height="515" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-8-Identify-VPN-server-/blob/main//Screenshot 2025-10-05 204136.png" />
 
 # Verify IP address
 To verify ip address can use some many online website like.
     www.whatismyipaddress.com
-
+    
+<img width="1580" height="515" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-8-Identify-VPN-server-/blob/main//Screenshot 2025-10-05 204105.png" />
 
 # VPNs Essential Features 
 1. Encryption
